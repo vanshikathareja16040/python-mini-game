@@ -2,11 +2,11 @@ import logic
 
 while True:
     print("""
-====== 🎮 GAME MENU ======
+ GAME MENU
 1. Stone-Paper-Scissors
 2. Dice Roll Game
 3. Exit
-=========================
+
 """)
 
     choice = input("Enter your choice: ")
